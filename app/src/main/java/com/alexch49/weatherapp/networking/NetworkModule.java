@@ -45,7 +45,7 @@ public class NetworkModule {
 
 
         return new Retrofit.Builder()
-                .baseUrl("http://private-b8cf44-androidcleancode.apiary-mock.com/")
+                .baseUrl("http://api.wunderground.com/")
                 .client(okHttpClient)
                 .addConverterFactory(GsonConverterFactory.create())
                 .addConverterFactory(ScalarsConverterFactory.create())
