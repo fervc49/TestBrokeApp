@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">WeatherApp</string>
     <string name="weather_image">weather image</string>
+    <string name="enter_zip_code">Enter Zip Code</string>
+    <string name="search_zip">Search by Zip Code</string>
 
 </resources>

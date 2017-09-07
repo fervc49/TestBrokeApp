@@ -2,6 +2,7 @@ package com.alexch49.weatherapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 import com.alexch49.weatherapp.deps.DaggerDeps;
 import com.alexch49.weatherapp.deps.Deps;
